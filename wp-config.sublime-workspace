@@ -1,0 +1,1086 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"log"
+			],
+			[
+				"admin",
+				"adminOrders"
+			],
+			[
+				"announcement",
+				"announcementDetails"
+			],
+			[
+				"order",
+				"orderID"
+			],
+			[
+				"getMembersh",
+				"getMembershipDetails"
+			],
+			[
+				"get",
+				"getPlanDetails"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"base64",
+				"base64_decode"
+			],
+			[
+				"_t",
+				"_this_order"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"get_post",
+				"get_post_meta"
+			],
+			[
+				"half",
+				"halfYearlyPrice"
+			],
+			[
+				"qua",
+				"quarterlyPrice"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"button",
+				"button-primary"
+			],
+			[
+				"adv",
+				"adv_id"
+			],
+			[
+				"get_curren",
+				"get_current_user_id"
+			],
+			[
+				"getLandin",
+				"getLandingCity"
+			],
+			[
+				"membership",
+				"membership_coupon"
+			],
+			[
+				"filter",
+				"filterLocation"
+			],
+			[
+				"back",
+				"back_to_listing_url"
+			],
+			[
+				"max",
+				"maxPrice"
+			],
+			[
+				"min",
+				"minPrice"
+			],
+			[
+				"announcement_p",
+				"announcement_plan"
+			],
+			[
+				"GEnera",
+				"GeneralThemeObject"
+			],
+			[
+				"current",
+				"currentPlanDetails"
+			],
+			[
+				"inli",
+				"inline-flex\tdisplay"
+			],
+			[
+				"possi",
+				"possibilityResult"
+			],
+			[
+				"Genera",
+				"GeneralThemeObject"
+			],
+			[
+				"period",
+				"period_val"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"GeneralTh",
+				"GeneralThemeObject"
+			],
+			[
+				"mainQuer",
+				"mainQueryRes"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"total",
+				"totalImprovedPrice"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"each",
+				"eachState"
+			],
+			[
+				"productImg",
+				"productImgURL"
+			],
+			[
+				"productIm",
+				"productImg"
+			],
+			[
+				"getState",
+				"getStateDetails"
+			],
+			[
+				"mainQu",
+				"mainQueryRes"
+			],
+			[
+				"functin",
+				"function_exists"
+			],
+			[
+				"price",
+				"price_val"
+			],
+			[
+				"delete",
+				"deleteID"
+			],
+			[
+				"funct",
+				"function_exists"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"coupo",
+				"couponCode"
+			],
+			[
+				"coupon",
+				"couponApplied"
+			],
+			[
+				"tota",
+				"totalUsageLimit"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"Coupon",
+				"CouponObject"
+			],
+			[
+				"THEME",
+				"THEME_TEXTDOMAIN"
+			],
+			[
+				"no",
+				"noOfUsers"
+			],
+			[
+				"deal",
+				"deal_id"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"supplie",
+				"supplier-same-row"
+			],
+			[
+				"suppl",
+				"supplier-same-row"
+			],
+			[
+				"_this",
+				"_this_type"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"suppli",
+				"supplierAddress"
+			],
+			[
+				"announ",
+				"announcementDetails"
+			],
+			[
+				"coupon_de",
+				"coupon_details"
+			],
+			[
+				"GEne",
+				"GeneralThemeObject"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"coup",
+				"coupon_details"
+			],
+			[
+				"butt",
+				"button-primary"
+			],
+			[
+				"check",
+				"checkForNotLocations"
+			],
+			[
+				"product",
+				"productType"
+			],
+			[
+				"getSup",
+				"getSupplierArgs"
+			],
+			[
+				"getSupplier",
+				"getSupplierMetaArgs"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"Coupo",
+				"CouponObject"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"use",
+				"userApplied"
+			],
+			[
+				"retur",
+				"returnVal"
+			],
+			[
+				"getCoup",
+				"getCouponData"
+			],
+			[
+				"supplier",
+				"supplierDetails"
+			],
+			[
+				"date",
+				"dateDiff"
+			],
+			[
+				"getAnnounceme",
+				"getAnnouncementDetails"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"false",
+				"FALSE"
+			],
+			[
+				"pay",
+				"payableAmount"
+			],
+			[
+				"incen",
+				"incentiveData"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"General",
+				"GeneralTheme"
+			],
+			[
+				"explo",
+				"explodedRecipients"
+			],
+			[
+				"car",
+				"car_url"
+			],
+			[
+				"car_",
+				"car_name"
+			],
+			[
+				"form",
+				"form_type"
+			],
+			[
+				"prefe",
+				"preferred_location"
+			],
+			[
+				"pref",
+				"preferred_location"
+			],
+			[
+				"getCar",
+				"getCarModifiedDate"
+			],
+			[
+				"join",
+				"joinedImages"
+			],
+			[
+				"atta",
+				"attach_id"
+			],
+			[
+				"explode",
+				"explodedImages"
+			],
+			[
+				"count",
+				"countVal"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"Announcemen",
+				"AnnouncementObject"
+			],
+			[
+				"getUser",
+				"getUserMembershipDetails"
+			],
+			[
+				"member",
+				"MembershipObject"
+			],
+			[
+				"functio",
+				"function"
+			],
+			[
+				"where",
+				"whereData"
+			],
+			[
+				"month",
+				"monthlyCoverage"
+			],
+			[
+				"mont",
+				"monthlyIncome"
+			],
+			[
+				"package_dest",
+				"package_destination_phone"
+			],
+			[
+				"package_des",
+				"package_dest_state"
+			],
+			[
+				"package",
+				"package_dest_zip"
+			],
+			[
+				"getWare",
+				"getWarehouseState"
+			],
+			[
+				"getWarehou",
+				"getWarehouseEmail"
+			],
+			[
+				"getPla",
+				"getPlanPrice"
+			],
+			[
+				"payment",
+				"paymentProcess"
+			],
+			[
+				"input",
+				"input-lg"
+			],
+			[
+				"Generalt",
+				"GeneralThemeObject"
+			],
+			[
+				"theme",
+				"theme_email_template"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"assess",
+				"assessment_type_confrm"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mail",
+				"mailBody"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"getShippingReceivedD",
+				"getShippingReceivedDate"
+			],
+			[
+				"parcel_re",
+				"parcel_received_date"
+			],
+			[
+				"getProD",
+				"getProCatDet"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"eachPro",
+				"eachProSubCat"
+			],
+			[
+				"getPro",
+				"getProSubCats"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/tmp/fz3temp-2/~print-service-coupons.php",
+			"settings":
+			{
+				"buffer_size": 10127,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/fz3temp-2/service-coupons.php",
+			"settings":
+			{
+				"buffer_size": 4675,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet:",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/tmp/fz3temp-2/print-service-coupons.php",
+		"/opt/lampp/htdocs/alohakiadev/subsites/service-coupons.php",
+		"/opt/lampp/htdocs/alohakiadev/subsites/content-single-product.php",
+		"/tmp/fz3temp-2/theme-general.php",
+		"/opt/lampp/htdocs/alohakiadev/subsites/site-branding.php",
+		"/opt/lampp/htdocs/alohakiadev/subsites/header.php",
+		"/opt/lampp/htdocs/alohakiadev/subsites/custom.css",
+		"/opt/lampp/htdocs/alohakiadev/subsites/bckp-19.06.2019/service-coupons.php",
+		"/tmp/fz3temp-2/service-coupons.php",
+		"/opt/lampp/htdocs/alohakiadev/subsites/entry-header.php",
+		"/opt/lampp/htdocs/alohakiainv/n2-service-settings/assets/js/n2-product-filter.js",
+		"/opt/lampp/htdocs/alohakiainv/n2-service-settings/libs/ajaxWoocommerceProoductFilter.php",
+		"/opt/lampp/htdocs/alohakiainv/n2-service-settings/libs/18.04.2019-ajaxWoocommerceProoductFilter.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-lib/theme-general.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-lib/announcement-transaction-list-table.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-template/user-transaction-receipt-template.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-lib/membership-list-table.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/framework-init.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/announcement-settings/announcement-transactions.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-inc/theme-admin-menu.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/advertisement-section/advertisement-section.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/coupon-setup/ajaxCouponManagement.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/announcement-module/classAnnouncement.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/announcement-module/ajaxAnnouncement.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-plan-purchase/ajaxUserPlanPurchase.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-dashboard/user-dahsboard.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-announcements/user-announcements.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-dashboard/user-dahsboard-mobile.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/advertisement-section/ajaxAdvPreviewPrice.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-inc/theme-metabox.php",
+		"/opt/lampp/htdocs/andre/wp-content/plugins/pdf-print/js/front-script.js",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/coupon-management/classCouponMangement.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/assets/css/main.css",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-inc/theme-functions.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/advertisement-module/ajaxAdvertisementModule.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-plan-purchase/classMemberShip.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/assets/js/theme.js",
+		"/home/sayan/.config/sublime-text-3/Packages/User/textdom.sublime-snippet",
+		"/home/sayan/.config/sublime-text-3/Packages/User/callphp.sublime-snippet",
+		"/home/sayan/.config/sublime-text-3/Packages/User/endphp.sublime-snippet",
+		"/home/sayan/.config/sublime-text-3/Packages/User/ifrh.sublime-snippet",
+		"/home/sayan/.config/sublime-text-3/Packages/User/ifr.sublime-snippet",
+		"/home/sayan/.config/sublime-text-3/Packages/User/pre.sublime-snippet",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/coupon-management/ajaxFrontEndCouponManage.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/sub-admin-additional-information/sub-admin-additional-information.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/user-additional-information/user-additional-information.php",
+		"/home/sayan/Downloads/GIT_Repo/andre/framework/theme-inc/theme-admin-extra-list-column.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/assets/js/theme-admin.js",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-inc/theme-admin-extra-list-column.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/header.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/assets/css/custom.css",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/custom-templates/home-template.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/plugins/wp-live-chat-support/css/themes/modern.css",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/custom-modules/frontend/user-pickup-assessment/user-choose-order-method.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/custom-templates/blog-template.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/template-parts/post/content-image.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/template-parts/post/content.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/single.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/functions.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/framework/framework-init.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/custom-templates/staff-template.php",
+		"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/template-parts/page/content-page.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-inc/theme-cron-functions.php",
+		"/home/sayan/Downloads/email-template/index.html",
+		"/home/sayan/Downloads/email-template/index-existing.html",
+		"/home/sayan/Downloads/email-template/index-new.html",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/coupon-setup/coupon-management.js",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-lib/paypal.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/coupon-management/coupon-manage.js",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/single-andr_product.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/announcement-module/user-announcement-payment-popup.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-inc/theme-core.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-inc/theme-scripts.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-plan-purchase/user-plan-purchase-popup.php",
+		"/home/sayan/Downloads/GIT_Repo/andre/framework/framework-init.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/footer.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/sub-admin-additional-information/sub-admin-functionalities.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/account-sidebar/account_sidebar.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-account/user-account.js",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/user-account/ajaxUserAccount.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-lib/price-improvement-list-table.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/advertisement-price-settings/advertisement-price-settings.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/framework/theme-lib/unmatched-product-list-table.php",
+		"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-template/home-template.php",
+		"/opt/lampp/htdocs/alohakia/no-products-found.php",
+		"/opt/lampp/htdocs/alohakia/archive-product.php",
+		"/opt/lampp/htdocs/alohakia/subsite/archive-product.php",
+		"/opt/lampp/htdocs/alohakia/sub-functions.php",
+		"/opt/lampp/htdocs/alohakiadev/sub-functions.php",
+		"/opt/lampp/htdocs/alohakia/n2-service-settings/libs/ajaxWoocommerceProoductFilter.php",
+		"/opt/lampp/htdocs/alohakia/subsite/sub-functions.php",
+		"/opt/lampp/htdocs/alohakia/n2-service-settings/class-n2-product-filter-by-year.php",
+		"/opt/lampp/htdocs/alohakia/subsite/functions.php",
+		"/tmp/fz3temp-2/ajaxWoocommerceProoductFilter.php",
+		"/tmp/fz3temp-2/archive-product.php",
+		"/tmp/fz3temp-2/content-product.php",
+		"/opt/lampp/htdocs/alohakia/content-single-product.php",
+		"/tmp/fz3temp-2/custom.css",
+		"/tmp/fz3temp-2/custom 2.css",
+		"/opt/lampp/htdocs/alohakia/subsite/content-single-product.php",
+		"/opt/lampp/htdocs/alohakiadev/content-single-product.php",
+		"/opt/lampp/htdocs/alohakiadev/content-product.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/libs/ajaxWoocommerceProoductFilter.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-year.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-product-model.php",
+		"/home/sayan/Downloads/GIT_Repo/andre/framework/theme-lib/theme-general.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-engine.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-location.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-trim.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-product-type.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-color.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-drivetrain.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-passengers.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-transmission.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-price.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-product-make.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-body.php",
+		"/opt/lampp/htdocs/alohakiadev/n2-service-settings/class-n2-product-filter-by-gas-mileage.php",
+		"/opt/lampp/htdocs/alohakiadev/custom.css",
+		"/opt/lampp/htdocs/alohakiadev/content-ajax-product-list.php",
+		"/opt/lampp/htdocs/lacare/hotel-paradise/template/page-fullwidth.php",
+		"/opt/lampp/htdocs/alohakiadev/theme-general.php",
+		"/opt/lampp/htdocs/alohakiadev/functions.php",
+		"/opt/lampp/htdocs/lacare/hotel-paradise/template/template-homepage.php",
+		"/opt/lampp/htdocs/lacare/template-find-plan.php",
+		"/opt/lampp/htdocs/lacare/hotel-paradise/functions.php",
+		"/opt/lampp/htdocs/estimate-web/index.html",
+		"/opt/lampp/htdocs/estimate-web/onepage.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/opt/lampp/htdocs/andre/wp-content/plugins/pdf-print",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre",
+			"/opt/lampp/htdocs/lacare/hotel-paradise",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre",
+			"/opt/lampp/htdocs/andre/wp-content/plugins/",
+			"/opt/lampp/htdocs/andre/wp-content/plugins/wp-social-sharing",
+			"/opt/lampp/htdocs/andre/wp-content/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/plugins/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/plugin/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/plugin/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/admin/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/frontend/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/custom-modules/forntend/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment/",
+			"/opt/lampp/htdocs/andre/wp-content/themes/andre/",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-admin",
+			"/opt/lampp/htdocs/drugsandalcoholassessment/wp-content/themes/drugsandalcoholassessment",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".services-list",
+			"filter-by-product-make",
+			"productFilterQueryArgs2",
+			"imageToPdf()",
+			"insertAdvPayment",
+			"TBL_ADVERTISEMENT_PAYMENT",
+			"TBL_ADV_PAYMENT",
+			"//Set this",
+			"supplier_logo",
+			"upload",
+			"andre_settings_func",
+			"offer-sec",
+			"sayan",
+			"font-fam",
+			"setProductCurrentPriceInMeta",
+			"$planDetails->data['quarterly_price']",
+			"getMembershipDetails",
+			"getUserMembershipDetails",
+			"getMembershipDetails",
+			"success",
+			"CouponObject",
+			"payment_url",
+			"Pay now",
+			"Pay Now",
+			"themeFramework::$theme_prefix . 'advertisement'",
+			"theme-cron-functions",
+			"Purchase",
+			"advertisement_price_settings_func",
+			"advertisement-price-settings",
+			"price_improvement_func",
+			"Price Improvement",
+			"Manage Product City Prices",
+			"sub-admin-price-improvement",
+			"exit",
+			"mobile",
+			"CouponObject",
+			"sub_admin_price_improvement_func",
+			"price",
+			"filter_product_model",
+			"pre_g",
+			"n2Shop",
+			"transmissio",
+			"car_price",
+			"productLargeImages",
+			"Income",
+			"Find a plan that fits all your health needs.",
+			"add_filter('acf/fields/post_object/query', 'pk_acf_ID_search', 10, 3);\nfunction pk_acf_ID_search( $args, $field, $post_id ) {\n\t$ss = [];\n   $search = !empty($args['s']) ? $args['s'] : false;\n   if($search && ctype_alnum($search)){\n   \t$ss[] = [\n    \t'key' => 'vehicle_details_stock_no',\n    \t'value' => $search\n    \t'compare' => 'LIKE'\n    ];\n   \t$args['meta_query'] = $ss;\n\n  \tunset($args['s']);\n   }\n   return $args; \n}",
+			"input#fpl",
+			"jQuery('#datafetch')",
+			"jQuery('#datafetch').html(\"\");",
+			"input#fpl",
+			"fetchResults",
+			"screen and (max-width: 767px)",
+			"announement-plan-selection",
+			"$user_details",
+			"user_details",
+			"renew",
+			"initMap(",
+			"initMap",
+			"$getSupplierForMaps",
+			"map",
+			"active",
+			"userPreviousPlan",
+			"plan-purchase",
+			"Ativo",
+			"active",
+			".navbar-nav > li.social > a",
+			"768px",
+			"@media",
+			"social ",
+			".loginbtn a",
+			"    border-radius: 4px;\n    background-color: #3371b9;\n    color: #fff;",
+			".loginbtn",
+			"price-up-arrow",
+			"getProductPrice(",
+			"getProductPrice",
+			"admin_state_selection",
+			"state",
+			"state_city",
+			"state-city",
+			"search_string_val",
+			"site_redirect",
+			"resp.url",
+			"sire_redirect",
+			"price_improvement_process",
+			"click-price-improve",
+			"admin_init",
+			"themeSupports",
+			"main-label",
+			"wc",
+			"coup",
+			"popula",
+			"$getHiddenSupplierID = get_posts([",
+			".profile-dtls .profile-review a.company-link{",
+			".profile-dtls .profile-review a.company-link",
+			"face",
+			"get_author_posts_url",
+			"$getSupplierInfo->ID",
+			"$supplier_id",
+			"$_GET['deal']",
+			"deal_get_shareable_link",
+			"asdasdad",
+			"saya",
+			".profile-dtls ",
+			".profile-dtls",
+			".company-link",
+			"company-link",
+			".profile-dtls .profile-review a.company-link",
+			".supplier-same-row > a > i {",
+			"display: inline-block;",
+			"background-color: #2b4170;color: #fff;padding: 10px;display: inline-block;",
+			".supplier-same-row {",
+			"siteurl",
+			"localhost/andre",
+			".profile-review",
+			"user_details",
+			"userDetails",
+			"WishlistObject",
+			"userDetails",
+			"tbl-wishlist",
+			"data-type=\"announement\"",
+			"supp-thumb supp-cat-slide",
+			"class=\"product-img\"",
+			"\"add-to-wishlist",
+			"add-to-wishlist",
+			"-wishlist",
+			"->addToWishList",
+			"addToWishList"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getUserMembershipDetails",
+			"Upgrade",
+			"$userDetails",
+			"$supplier_id",
+			"$deal_id",
+			"localhost/new_andre",
+			"user_details",
+			"false",
+			"n2cf",
+			"$donationID",
+			"$paymentProcess['transaction_id']",
+			"eachNewSubCategory",
+			"generateRandomString",
+			"userDetails->",
+			"Sticker",
+			"copyText",
+			"images/",
+			"jQuery",
+			"$eachAnnouncement",
+			"$announcement_category",
+			"$shippingOrderId",
+			"shipping order",
+			"Shipping Order",
+			".input-err-msg",
+			"value: 1",
+			"Warehouse",
+			"warehouse",
+			"http://localhost/andre",
+			"#5695d0",
+			"drg_users",
+			"user_new_pass_updated'",
+			"user_phone_updated",
+			"user_last_name_updated",
+			"user_first_name_updated",
+			"exclude_question_id",
+			"#5096dc",
+			"https://myphpdevelopers.com/dev/drugsandalcoholassessment",
+			"customerRegFrm",
+			"input-error-msg",
+			"customer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/tmp/fz3temp-2/~print-service-coupons.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10127,
+								10127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/tmp/fz3temp-2/service-coupons.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1628,
+								1628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wp-config.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

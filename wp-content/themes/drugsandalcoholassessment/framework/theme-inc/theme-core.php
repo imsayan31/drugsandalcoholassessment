@@ -22,6 +22,7 @@ if (!function_exists('theme_core_setup')) {
         theme_register_post_type(THEME_PREFIX . 'staff', 'staff-member', 'Staff', 'dashicons-groups', ['title', 'editor', 'thumbnail']);
 
         theme_register_post_type(THEME_PREFIX . 'coupon', 'coupon', 'Coupon', 'dashicons-slides', ['title', 'editor']);
+        theme_register_post_type(THEME_PREFIX . 'testimonial', 'testimonial', 'Testimonial', 'dashicons-format-quote', ['title', 'editor']);
         //theme_register_taxonomy(THEME_PREFIX . 'status', THEME_PREFIX . 'assessment', 'status', 'Status');
     }
 

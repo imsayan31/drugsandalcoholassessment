@@ -16,6 +16,7 @@ if(is_user_logged_in()){
 } else{
 	$redirectTo = USER_REGISTRATION_PAGE;
 }
+$getTestimonials = get_posts(['post_type' => THEME_PREFIX . 'testimonial', 'posts_per_page' => -1]);
 ?>
 
 <section class="content_sec">
@@ -39,16 +40,32 @@ if(is_user_logged_in()){
                     <?php endif; ?>
                     
                 </ul>
+                <!-- <div class="client-testimonials">
+                    <div class="owl-carousel owl-theme">
+                        <?php if(is_array($getTestimonials) && count($getTestimonials) > 0): ?>
+                            <?php foreach($getTestimonials as $eachTestimonial): ?>
+                                <div class="item">
+                                    <blockquote>
+                                        <?php echo $eachTestimonial->post_content; ?>
+                                        <cite><?php echo $eachTestimonial->post_title; ?></cite>
+                                    </blockquote>
+                                </div> 
+                            <?php endforeach; ?>
+                        <?php endif; ?>
+                    </div>
+                </div> -->
             </div>
-                
             <div class="col-sm-5 home_con assessments_con col-xs-push-1">
                 <h2><a href="<?php echo site_url().'/assessments'; ?>" style="color: #fff;">Our Assessments</a></h2>
                 <ul>
-                    <li>General Substance Abuse</li>
-                    <li>DUI Alcohol/DUID Drug</li>
-                    <li>Employer required Substance Abuse</li>
-                    <li>DOT Substance Abuse</li>
-                    <li>Child Custody/ Divorce Substance Abuse</li>
+                    <li><a href="<?php echo site_url().'/assessments'; ?>" style="color: #fff;"><img src="<?php echo ASSET_URL.'/images/bullet.png'; ?>" alt="Tick Mark"/>&nbsp; General Substance Abuse</a></li>
+                    <li><a href="<?php echo site_url().'/assessments'; ?>" style="color: #fff;"><img src="<?php echo ASSET_URL.'/images/bullet.png'; ?>" alt="Tick Mark"/>&nbsp; Child Custody/Divorce Substance Abuse</a></li>
+                    <li><a href="<?php echo site_url().'/assessments'; ?>" style="color: #fff;"><img src="<?php echo ASSET_URL.'/images/bullet.png'; ?>" alt="Tick Mark"/>&nbsp; DMV License Reinstatement Substance Abuse</a></li>
+                    <li><a href="<?php echo site_url().'/assessments'; ?>" style="color: #fff;"><img src="<?php echo ASSET_URL.'/images/bullet.png'; ?>" alt="Tick Mark"/>&nbsp; Domestic Violence Substance Abuse</a></li>
+                    <li><a href="<?php echo site_url().'/assessments'; ?>" style="color: #fff;"><img src="<?php echo ASSET_URL.'/images/bullet.png'; ?>" alt="Tick Mark"/>&nbsp; DUI Alcohol/DUID Drug Assessment</a></li>
+                    <li><a href="<?php echo site_url().'/assessments'; ?>" style="color: #fff;"><img src="<?php echo ASSET_URL.'/images/bullet.png'; ?>" alt="Tick Mark"/>&nbsp; Employer Required Substance Abuse</a></li>
+                    <li><a href="javascript:void(0);" class="tooltip-sec"><span class="hovering-text">We offer payment plans to fit your needs. Call for details.</span><img src="<?php echo ASSET_URL.'/images/credit_card.png'; ?>" alt="Credit Card"/>&nbsp; Payment Plans Available</a></li>
+                    <li><a href="javascript:void(0);" class="tooltip-sec"><span class="hovering-text">We offer a 30 day money back guarantee.</span><img src="<?php echo ASSET_URL.'/images/money_back.png'; ?>" alt="Money Back"/>&nbsp; Money Back Guarantee!</a></li>
                 </ul>
             </div>
             
@@ -58,6 +75,7 @@ if(is_user_logged_in()){
                     <div class="get_button">
                         <?php if(is_user_logged_in()){ ?>
                             <a href="<?php echo $redirectTo; ?>" class="get_button">Get Started</a>
+                            <a href="<?php echo $redirectTo; ?>" class="get_button">My Account</a>
                         <?php } else {
                         ?>
                         <a href="#userRegistrationModal" data-toggle="modal" class="get_button">Get Started</a>
@@ -76,6 +94,28 @@ if(is_user_logged_in()){
     
     
 </section>
+<script type="text/javascript">
+    jQuery(document).ready(function($){
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:10,
+            nav:false,
+            autoplay:false,
+            // autoWidth: true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            }
+        })
+    });
+</script>
 <?php
 get_footer();
 

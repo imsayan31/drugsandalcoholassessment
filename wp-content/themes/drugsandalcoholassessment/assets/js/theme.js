@@ -1,5 +1,7 @@
 jQuery(document).ready(function($){
 
+    // $('[data-toggle="tooltip"]').tooltip(); 
+
 	$('.user_location').chosen({
 		width: '100%'
 	});

@@ -45,6 +45,9 @@ if (!function_exists('front_end_scripts')) {
         wp_register_script('theme-js', ASSET_URL . '/js/theme.js');
         wp_enqueue_script('theme-js');
 
+        wp_register_script('owl.carousel-js', ASSET_URL . '/js/owl.carousel.js');
+        wp_enqueue_script('owl.carousel-js');
+
         wp_register_script('user-registration-js', THEME_URL . '/custom-modules/frontend/user-registration/user-registration.js');
         wp_enqueue_script('user-registration-js');
 
@@ -129,6 +132,9 @@ if (!function_exists('front_end_styles')) {
 
         wp_register_style('font-awesome-css', 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
         wp_enqueue_style('font-awesome-css');
+
+        wp_register_style('owl-carousel-css', ASSET_URL . '/css/owl.carousel.css');
+        wp_enqueue_style('owl-carousel-css');
 
         // wp_register_style('owl.carousel-css', ASSET_URL . '/css/owl.carousel.css');
         // wp_enqueue_style('owl.carousel-css');

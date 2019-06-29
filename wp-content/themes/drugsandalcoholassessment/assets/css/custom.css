@@ -32,7 +32,8 @@ header { padding:20px 0; }
 .header_top_sec .logoTxt a { font-size:24px; float:left; line-height:30px; color:#fff; }
 .header_top_sec .logoTagline a { font-size:14px; float:left; line-height:30px; margin-left:35px; color:#fff; }
 .header_top_sec .top_link { text-align:right; }
-.header_top_sec .top_link a { color:#fff; text-transform:uppercase; margin-left:4px; padding:10px 15px; border: 1px solid #fff;font-size: 18px; margin-right: 10px;display: inline-block;}
+/*.header_top_sec .top_link a { color:#fff; text-transform:uppercase; margin-left:4px; padding:10px 15px; border: 1px solid #fff;font-size: 18px; margin-right: 10px;display: inline-block;}*/
+.header_top_sec .top_link a { color:#fff; text-transform:uppercase; margin-left:4px; padding:10px 8px; font-size: 16px; margin-right: 10px;display: inline-block;}
 .header_top_sec .top_link a:hover { background:rgba(255,255,255,0.2); color:#fff; }
 
 .header_bottom_sec { margin-top:25px; width:100%; display:inline-block; }
@@ -384,7 +385,88 @@ div.wpcf7 .form-group label {
 	color:#fff;	
 }
 
+/* Sayan CSS - 23.06.2019 */
+.us-map-sec{
+    text-align: center;
+    position: absolute;
+}
+.us-map-desc{
 
+    margin-left: 80px;
+    margin-right: 50px;
+    color: #052a5c;
+    font-weight: 600;
+    font-size: 16px;
+}
+.top_link img{
+    width: 20px;
+}
+.tooltip-sec{
+    color: #fff;
+    position: relative;
+}
+.tooltip-sec span{
+    font-size: 12px;
+    background: #333;
+    padding: 5px;
+    border-radius: 10px;
+    position: absolute;
+    text-align: center;
+    bottom: 25px;
+    right: 28%;
+    left: 15%;
+    transition: opacity 0.3s;
+    z-index: 1;
+    opacity: 0;
+    visibility: hidden;
+    width: 85%;
+}
+.tooltip-sec span::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #333 transparent transparent transparent;
+}
+.tooltip-sec:hover{
+    color: #fff;
+}
+.tooltip-sec:hover span.hovering-text{
+    visibility: visible;
+    opacity: 1;
+    color: #fff;
+}
+.client-testimonials{
+    margin-top: 5rem;
+}
+.client-testimonials blockquote{
+    border: 2px solid #fff;
+}
+
+.client-testimonials:before, .client-testimonials:after {
+    position: absolute;
+    color: #F20044;
+    font-size: 8rem;
+    width: 4rem;
+    height: 4rem;
+    background: transparent;
+}
+
+.client-testimonials:before {
+    content: '“';
+    left: -2rem;
+    top: -2rem;
+}
+
+.client-testimonials:after {
+    content: '”';
+    right: -2rem;
+    bottom: 1rem;
+    top: 7rem;
+}
 
 
 
@@ -392,7 +474,7 @@ div.wpcf7 .form-group label {
 /* Start Footer Styles --------------------------------------------------------*/
 footer { padding:60px 0 10px; }
 footer .copyrightTxt { text-align:right; margin:0; }
-footer .copyrightTxt a { color:#fff; font-size: 18px;}
+footer .copyrightTxt a { color:#052a5c; font-size: 18px;}
 
 
 
@@ -415,9 +497,10 @@ footer .copyrightTxt a { color:#fff; font-size: 18px;}
 	.header_top_sec .custom-logo-link { display:inline-block; margin-bottom:8px; }
 	.header_top_sec .logoTxt { float:none; text-align:center; }
 	.header_top_sec .logoTagline { float:none; text-align:center; margin:0; }
-	.header_top_sec .top_link { text-align:center; }
+	.header_top_sec .top_link { text-align:center; margin-top: 45px;}
 	.header_top_sec .top_link a { margin:5px 15px 0; display:inline-block; }
 	.top_social { margin-top:-35px; position:relative; z-index:9; float:right; padding-left:0; }
+
 	
 	.header_bottom_sec { margin-top:15px; }
 	.header_bottom_sec .top_nav { margin:0; min-height:inherit; }

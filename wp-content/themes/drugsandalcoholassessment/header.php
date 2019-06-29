@@ -36,12 +36,12 @@ $get_instagram_url = get_option('_instagram_url');
 
 <?php if(is_front_page()): ?>
     <!-- Offer Div -->
-    <div class="offer-sec">
+    <!-- <div class="offer-sec">
         <img src="<?php echo THEME_URL.'/assets/images/10_Off.png'; ?>" alt="Offer Section">
     </div>
     <div class="another-offer-sec">
         <img src="<?php echo THEME_URL.'/assets/images/payment_options.png'; ?>" alt="Offer Section">
-    </div>
+    </div> -->
     <!-- End of Offer Div -->
 <?php endif; ?>
     
